@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680870679 source:d:\nti_embeded_c\8\project\c_project\main.c
+	<stdio.h>
+
+1680837087 d:\nti_embeded_c\8\project\c_project\employee.h
+
+1680837103 source:d:\nti_embeded_c\8\project\c_project\employee.c
+	<stdio.h>
+	"Employee.h"
+
